@@ -25,4 +25,10 @@ with status-based real-time delivery tracking.
 ### Day 2 (Planned)
 - Learn Python basics (variables, input, print)
 - Understand how backend works
+### Day 2
+- Revised Python basics
+- Studied Computer Networks fundamentals
+- Learned DBMS basics and SQL structure
+- Worked on project documentation
+- Learned Linux basics for DevOps
 
