@@ -32,3 +32,10 @@ with status-based real-time delivery tracking.
 - Worked on project documentation
 - Learned Linux basics for DevOps
 
+- ### Day 3
+- Learned Python if-else logic
+- Practiced SQL/Python practicals
+- Designed database for project
+- Learned basics of Git for DevOps
+
+
